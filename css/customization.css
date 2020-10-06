@@ -1,0 +1,10 @@
+#sucess-div {
+  width: 25rem;
+}
+
+#success-message {
+  font-size: 1.5rem !important;
+  color: white;
+  background-color: darkgreen;
+  text-align: center;
+}
